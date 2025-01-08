@@ -1,0 +1,9 @@
+networking\TCPServerExample.class
+com\mycompany\networking\datagramClient.class
+com\mycompany\networking\InetAddressExample.class
+com\mycompany\networking\TCPClientExample.class
+com\mycompany\networking\httpUrlConnection.class
+com\mycompany\networking\urlConnectionExample.class
+com\mycompany\networking\URLExample.class
+com\mycompany\dgram\DGram.class
+com\mycompany\networking\datagramServer.class
